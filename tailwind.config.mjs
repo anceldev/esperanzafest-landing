@@ -6,6 +6,7 @@ export default {
 		colors: {
 			'white': '#ffffff',
 			'darkBlue': '#03024c',
+			'btn-purple': '#463dc0'
 		}
 	},
 	plugins: [],
