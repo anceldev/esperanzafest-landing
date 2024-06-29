@@ -18,6 +18,7 @@ export default {
 			'btn-purple': '#463dc0',
 			'wakanda': '#0D1B1E',
 			'passire': '#2176FF',
+			'vibrantOrange': '#ED6936',
 		}
 	},
 	plugins: [],
